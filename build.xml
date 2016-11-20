@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name = "TestNG" default = "Test1" basedir = ".">
+    
+    <target name = "Test1">
+        <echo> Deepak </echo>
+    </target>
+    
+</project>
